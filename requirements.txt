@@ -1,0 +1,4 @@
+crewai[tools]
+# crewai_crewai-tools_poetry
+langchain_openai
+langchain_community
